@@ -10,6 +10,8 @@ const nextConfig = {
     domains: ["firebasestorage.googleapis.com"],
     unoptimized: true,
   },
+  // Add basePath
+  basePath: '/github-pages',
 };
 
 module.exports = nextConfig;
