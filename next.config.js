@@ -21,11 +21,8 @@
  */
 const nextConfig = {
   /* config options here */
-  basePath: '/github-pages',
   reactStrictMode: true,
-  eslint: {
-    ignoreDuringBuilds: true
-  }
+  basePath: '/github-pages',
 }
  
 module.exports = nextConfig;
