@@ -6,10 +6,10 @@ const nextConfig = {
     // your project has ESLint errors.
     ignoreDuringBuilds: true,
   },
-  images: {
-    domains: ["firebasestorage.googleapis.com"],
-    unoptimized: true,
-  },
+  // images: {
+  //   domains: ["firebasestorage.googleapis.com"],
+  //   unoptimized: true,
+  // },
   // Add basePath
   basePath: '/github-pages',
 };
