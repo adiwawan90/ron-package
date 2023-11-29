@@ -72,7 +72,7 @@ export default function Hero() {
             </Text>
           </Flex>
           <HStack spacing={{ base: "16px", md: "44px" }}>
-            <Link href={"/register"}>
+            <Link href={"https://api.whatsapp.com/send/?phone=6285711322464&text&type=phone_number&app_absent=0"}>
               <Button size={"lg"}>Pesan Sekarang!</Button>
             </Link>
 
