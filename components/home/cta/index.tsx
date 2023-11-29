@@ -71,7 +71,7 @@ export default function CTA() {
           <Text w={"279px"} mb={"30px"} textAlign={"right"} fontSize={"28px"}>
             /bulan
           </Text> */}
-          <Link href={"/register"}>
+          <Link href={"https://api.whatsapp.com/send/?phone=6285711322464&text&type=phone_number&app_absent=0"}>
             <Button
               _hover={{ backgroundColor: "gray.100" }}
               rounded={"full"}
